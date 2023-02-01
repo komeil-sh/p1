@@ -1,5 +1,3 @@
-using System.ComponentModel;
-using System;
 using DevExpress.Xpo;
 using Microsoft.AspNetCore.Mvc;
 using p1.DbModels;
